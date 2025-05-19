@@ -22,3 +22,12 @@ let outrosNumeros: Array<number> = [5, 6, 7];
 
 // Tuplas: Arrays de tamanho fixo onde cada posição pode ter um tipo diferente.
 let pessoa: [string, number] = ["Yudi", 30];
+
+
+// Exemplo de código TypeScript
+function somar(a: number, b: number): number {
+    return a + b;
+}
+
+console.log(somar(5, 10)); 
+// Saída: 15
