@@ -226,3 +226,8 @@ Esses recursos permitem uma validação e retenção rigorosa da integridade dos
 O sistema de tipos do TypeScript é uma poderosa ferramenta que oferece segurança, clareza e auto-documentação para o código. Ao utilizar tipos primitivos, especiais, estruturas como arrays, tuplas e enums, e construir contratos por meio de interfaces e aliases, juntamente com generics e mecanismos avançados, os desenvolvedores são capacitados a escrever códigos mais confiáveis, fáceis de manter e escaláveis.
 
 Essa compreensão não apenas minimiza erros em tempo de compilação, mas também melhora a experiência de desenvolvimento, facilitando a colaboração e a evolução do software.
+
+---
+
+🛠️ **Autor:** Yudi
+📅 **Última atualização:** Maio de 2025
