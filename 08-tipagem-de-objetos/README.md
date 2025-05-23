@@ -104,3 +104,8 @@ Dois mecanismos comuns para tipar objetos são as **interfaces** e os **type ali
 ### **Conclusão**
 
 A tipagem de objetos em TypeScript é uma prática fundamental que melhora a robustez do código, facilitando o desenvolvimento e a escalabilidade de aplicações. Ela permite que os desenvolvedores definam e validem a estrutura dos dados de forma clara, utilizando recursos como interfaces, type aliases, propriedades opcionais e read-only. Esse controle extra sobre os tipos de dados resulta em um código mais seguro, autoexplicativo e fácil de manter.
+
+---
+
+🛠️ **Autor:** Yudi
+📅 **Última atualização:** Maio de 2025
